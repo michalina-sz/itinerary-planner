@@ -18,20 +18,22 @@ App was created using MERN stack:
 - user can add, delete or edit trips (itineraries)
 - attractions are shown on an interactive map (MapBox Studio)
 
+## Screenshots
 
-## Zrzuty ekranu
-<img width="1440" alt="Zrzut ekranu 2024-01-9 o 15 16 31" src="https://github.com/michalina-sz/itinerary-planner/assets/42873374/44df9c42-ee0f-46d4-95b3-72b240666ed1"><img width="1440" alt="Zrzut ekranu 2024-01-9 o 15 18 48" src="https://github.com/michalina-sz/itinerary-planner/assets/42873374/966495ff-1cae-4d6c-8f13-d1ebc60ca2fa">
-<img width="1440" alt="Zrzut ekranu 2024-01-9 o 15 18 41" src="https://github.com/michalina-sz/itinerary-planner/assets/42873374/afd49e37-72d7-46a2-926c-4c941ed54d32">
+<img width="454" alt="widok-glowny" src="https://github.com/michalina-sz/itinerary-planner/assets/42873374/f9b905e2-4aa7-461c-8b80-ce08caf0fdb3">
 
-<img width="1440" alt="Zrzut ekranu 2024-01-9 o 19 52 20" src="https://github.com/michalina-sz/itinerary-planner/assets/42873374/59522aae-405c-417f-8aba-d75fca92163c">
-
+<img width="454" alt="widok-wydatkow" src="https://github.com/michalina-sz/itinerary-planner/assets/42873374/4b949d8d-1883-431b-a997-10ad6c279731">
+<img width="454" alt="widok-wycieczki" src="https://github.com/michalina-sz/itinerary-planner/assets/42873374/bfcd7909-6c43-458c-b831-c20fc827c2c0">
+![widok-wycieczek](https://github.com/michalina-sz/itinerary-planner/assets/42873374/b6d8c151-1326-4e41-a65f-18c67cd0c9f4)
+![widok-wyboru](https://github.com/michalina-sz/itinerary-planner/assets/42873374/4bbc6de6-5cd4-48eb-8f16-041335991c57)
+<img width="454" alt="widok-ustalania-wydatkow" src="https://github.com/michalina-sz/itinerary-planner/assets/42873374/036245f6-02e8-46df-9b96-928a618cfb60">
+<img width="454" alt="widok-ustalania-budzetu" src="https://github.com/michalina-sz/itinerary-planner/assets/42873374/5f152d95-f887-4316-9caa-501ea3b7fc1e">
+![widok-rejestracji](https://github.com/michalina-sz/itinerary-planner/assets/42873374/6cf94ac8-16ec-4c6d-ae14-8b63c5051e7a)
+<img width="454" alt="widok-planu-podrozy" src="https://github.com/michalina-sz/itinerary-planner/assets/42873374/7316ce79-2603-45f0-8b93-f11d22506688">
+![widok-logowania](https://github.com/michalina-sz/itinerary-planner/assets/42873374/3938a7f1-a879-4293-8310-2063123e7a7f)
 
 
 
 ## Autor
 
  Michalina Szostak
-
-## Licencja
-
-Ten projekt jest objęty licencją [nazwa_licencji]. Zobacz plik [LICENSE](LICENSE) dla szczegółów.
