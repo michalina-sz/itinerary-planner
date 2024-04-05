@@ -20,18 +20,21 @@ App was created using MERN stack:
 
 ## Screenshots
 
-<img width="454" alt="widok-glowny" src="https://github.com/michalina-sz/itinerary-planner/assets/42873374/f9b905e2-4aa7-461c-8b80-ce08caf0fdb3">
+<img width="454" alt="widok-glowny" src="https://github.com/michalina-sz/itinerary-planner/assets/42873374/7444b017-0182-4e97-b913-0415cbc3cd48">
 
-<img width="454" alt="widok-wydatkow" src="https://github.com/michalina-sz/itinerary-planner/assets/42873374/4b949d8d-1883-431b-a997-10ad6c279731">
-<img width="454" alt="widok-wycieczki" src="https://github.com/michalina-sz/itinerary-planner/assets/42873374/bfcd7909-6c43-458c-b831-c20fc827c2c0">
-![widok-wycieczek](https://github.com/michalina-sz/itinerary-planner/assets/42873374/b6d8c151-1326-4e41-a65f-18c67cd0c9f4)
-![widok-wyboru](https://github.com/michalina-sz/itinerary-planner/assets/42873374/4bbc6de6-5cd4-48eb-8f16-041335991c57)
-<img width="454" alt="widok-ustalania-wydatkow" src="https://github.com/michalina-sz/itinerary-planner/assets/42873374/036245f6-02e8-46df-9b96-928a618cfb60">
-<img width="454" alt="widok-ustalania-budzetu" src="https://github.com/michalina-sz/itinerary-planner/assets/42873374/5f152d95-f887-4316-9caa-501ea3b7fc1e">
-![widok-rejestracji](https://github.com/michalina-sz/itinerary-planner/assets/42873374/6cf94ac8-16ec-4c6d-ae14-8b63c5051e7a)
-<img width="454" alt="widok-planu-podrozy" src="https://github.com/michalina-sz/itinerary-planner/assets/42873374/7316ce79-2603-45f0-8b93-f11d22506688">
-![widok-logowania](https://github.com/michalina-sz/itinerary-planner/assets/42873374/3938a7f1-a879-4293-8310-2063123e7a7f)
 
+![widok-logowania](https://github.com/michalina-sz/itinerary-planner/assets/42873374/45db0313-0050-4ff2-ae0f-49ef89129a8c)
+
+![widok-rejestracji](https://github.com/michalina-sz/itinerary-planner/assets/42873374/530f119d-a025-4fde-bb4a-5bc75d295ee0)
+
+![widok-wycieczek](https://github.com/michalina-sz/itinerary-planner/assets/42873374/c5b17624-a7b8-4bf5-97f4-c92462b52f70)
+![widok-wyboru](https://github.com/michalina-sz/itinerary-planner/assets/42873374/3d89b544-5419-42d7-b76b-f68dd0ae0c0c)
+<img width="454" alt="widok-wycieczki" src="https://github.com/michalina-sz/itinerary-planner/assets/42873374/93851b5a-3763-42d3-a0e8-778ad00cc368">
+<img width="454" alt="widok-ustalania-budzetu" src="https://github.com/michalina-sz/itinerary-planner/assets/42873374/74ab0558-0a23-4652-bbf0-2091886c6d63">
+<img width="454" alt="widok-wydatkow" src="https://github.com/michalina-sz/itinerary-planner/assets/42873374/22a540ab-c2e3-4044-9881-18a5373e0d75">
+
+<img width="454" alt="widok-ustalania-wydatkow" src="https://github.com/michalina-sz/itinerary-planner/assets/42873374/9eec57bf-94f3-4850-9008-529d6351daf9">
+<img width="454" alt="widok-planu-podrozy" src="https://github.com/michalina-sz/itinerary-planner/assets/42873374/0196367c-23dd-4ddf-9d9a-6370e50be3ba">
 
 
 ## Autor
