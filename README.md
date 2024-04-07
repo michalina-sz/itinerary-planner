@@ -1,7 +1,7 @@
 # itinerary-planner
 An application created for my engineering thesis.
 
-I can't share the code of the application for now, but I can show it for recruitment purposes. I am providing screenshots of the app views.
+I cannot share the code of the application for now, but I can show it for recruitment purposes. I am providing screenshots of the app views.
 
 ## Technologies
 App was created using MERN stack:
